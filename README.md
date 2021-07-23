@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Shanon-git
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java at Codecademy
+- Am 14 years old
